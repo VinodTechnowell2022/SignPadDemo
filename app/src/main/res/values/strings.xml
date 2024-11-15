@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignPadDemo</string>
+    <string name="signature_pad">Signature Pad</string>
+</resources>
